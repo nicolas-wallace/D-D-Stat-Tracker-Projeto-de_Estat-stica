@@ -400,7 +400,6 @@ int main() {
                         for (int j = 0; j < 7; j++) {
                             unsigned long long seed = chrono::high_resolution_clock::now().time_since_epoch().count();
                             roladas = simularRolagens(quantidadeRolagens, seed);
-                            
                             todos[j]->setRolagem(roladas);
                             todos[j]->processar();
                             continue;

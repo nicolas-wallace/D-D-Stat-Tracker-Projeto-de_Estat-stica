@@ -1,0 +1,78 @@
+Personagem: Thorne
+
+=== ESTATÍSTICAS DA SESSÃO ATUAL ===
+Quantidade de rolagens: 40
+Média de rolagem (sessão atual): 11.125
+Desvio padrão (sessão atual): 5.59548
+Variância (sessão atual): 31.3094
+
+=== ESTATÍSTICAS CUMULATIVAS ===
+Total de sessões: 4
+Total de rolagens (todas as sessões): 340
+Média total (todas as sessões): 10.1118
+Desvio padrão total: 5.68738
+Variância total: 32.3463
+
+=== DISTRIBUIÇÃO DE ROLAGENS (SESSÃO ATUAL) ===
+Valor 1: 2.5%
+Valor 2: 5%
+Valor 3: 2.5%
+Valor 4: 5%
+Valor 5: 5%
+Valor 6: 5%
+Valor 7: 7.5%
+Valor 8: 5%
+Valor 9: 2.5%
+Valor 10: 2.5%
+Valor 11: 7.5%
+Valor 12: 7.5%
+Valor 13: 7.5%
+Valor 14: 0%
+Valor 15: 12.5%
+Valor 16: 0%
+Valor 17: 5%
+Valor 18: 5%
+Valor 19: 5%
+Valor 20: 7.5%
+
+=== ROLAGENS INDIVIDUAIS (SESSÃO ATUAL) ===
+Rolagem 1: 13
+Rolagem 2: 18
+Rolagem 3: 6
+Rolagem 4: 15
+Rolagem 5: 3
+Rolagem 6: 12
+Rolagem 7: 13
+Rolagem 8: 7
+Rolagem 9: 10
+Rolagem 10: 11
+Rolagem 11: 6
+Rolagem 12: 8
+Rolagem 13: 15
+Rolagem 14: 15
+Rolagem 15: 12
+Rolagem 16: 12
+Rolagem 17: 8
+Rolagem 18: 17
+Rolagem 19: 7
+Rolagem 20: 13
+Rolagem 21: 20
+Rolagem 22: 11
+Rolagem 23: 17
+Rolagem 24: 11
+Rolagem 25: 15
+Rolagem 26: 1
+Rolagem 27: 4
+Rolagem 28: 19
+Rolagem 29: 2
+Rolagem 30: 18
+Rolagem 31: 4
+Rolagem 32: 15
+Rolagem 33: 2
+Rolagem 34: 20
+Rolagem 35: 9
+Rolagem 36: 7
+Rolagem 37: 5
+Rolagem 38: 19
+Rolagem 39: 5
+Rolagem 40: 20

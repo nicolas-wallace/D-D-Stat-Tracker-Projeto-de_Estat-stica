@@ -1,0 +1,78 @@
+Personagem: Mestre
+
+=== ESTATÍSTICAS DA SESSÃO ATUAL ===
+Quantidade de rolagens: 40
+Média de rolagem (sessão atual): 12.225
+Desvio padrão (sessão atual): 5.66342
+Variância (sessão atual): 32.0744
+
+=== ESTATÍSTICAS CUMULATIVAS ===
+Total de sessões: 6
+Total de rolagens (todas as sessões): 356
+Média total (todas as sessões): 10.4888
+Desvio padrão total: 5.87294
+Variância total: 34.4914
+
+=== DISTRIBUIÇÃO DE ROLAGENS (SESSÃO ATUAL) ===
+Valor 1: 2.5%
+Valor 2: 2.5%
+Valor 3: 2.5%
+Valor 4: 5%
+Valor 5: 7.5%
+Valor 6: 2.5%
+Valor 7: 5%
+Valor 8: 5%
+Valor 9: 0%
+Valor 10: 0%
+Valor 11: 5%
+Valor 12: 7.5%
+Valor 13: 7.5%
+Valor 14: 2.5%
+Valor 15: 5%
+Valor 16: 17.5%
+Valor 17: 2.5%
+Valor 18: 5%
+Valor 19: 5%
+Valor 20: 10%
+
+=== ROLAGENS INDIVIDUAIS (SESSÃO ATUAL) ===
+Rolagem 1: 5
+Rolagem 2: 20
+Rolagem 3: 20
+Rolagem 4: 8
+Rolagem 5: 5
+Rolagem 6: 16
+Rolagem 7: 19
+Rolagem 8: 8
+Rolagem 9: 18
+Rolagem 10: 2
+Rolagem 11: 19
+Rolagem 12: 3
+Rolagem 13: 16
+Rolagem 14: 16
+Rolagem 15: 20
+Rolagem 16: 7
+Rolagem 17: 4
+Rolagem 18: 18
+Rolagem 19: 14
+Rolagem 20: 1
+Rolagem 21: 13
+Rolagem 22: 12
+Rolagem 23: 11
+Rolagem 24: 16
+Rolagem 25: 11
+Rolagem 26: 13
+Rolagem 27: 15
+Rolagem 28: 16
+Rolagem 29: 16
+Rolagem 30: 5
+Rolagem 31: 6
+Rolagem 32: 16
+Rolagem 33: 20
+Rolagem 34: 12
+Rolagem 35: 4
+Rolagem 36: 15
+Rolagem 37: 7
+Rolagem 38: 12
+Rolagem 39: 17
+Rolagem 40: 13

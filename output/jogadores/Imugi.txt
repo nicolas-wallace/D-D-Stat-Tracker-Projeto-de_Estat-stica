@@ -1,0 +1,78 @@
+Personagem: Imugi
+
+=== ESTATÍSTICAS DA SESSÃO ATUAL ===
+Quantidade de rolagens: 40
+Média de rolagem (sessão atual): 11.8
+Desvio padrão (sessão atual): 6.2458
+Variância (sessão atual): 39.01
+
+=== ESTATÍSTICAS CUMULATIVAS ===
+Total de sessões: 4
+Total de rolagens (todas as sessões): 340
+Média total (todas as sessões): 10.6853
+Desvio padrão total: 6.04379
+Variância total: 36.5274
+
+=== DISTRIBUIÇÃO DE ROLAGENS (SESSÃO ATUAL) ===
+Valor 1: 2.5%
+Valor 2: 12.5%
+Valor 3: 5%
+Valor 4: 2.5%
+Valor 5: 0%
+Valor 6: 2.5%
+Valor 7: 0%
+Valor 8: 5%
+Valor 9: 2.5%
+Valor 10: 7.5%
+Valor 11: 0%
+Valor 12: 7.5%
+Valor 13: 2.5%
+Valor 14: 15%
+Valor 15: 0%
+Valor 16: 7.5%
+Valor 17: 5%
+Valor 18: 2.5%
+Valor 19: 7.5%
+Valor 20: 12.5%
+
+=== ROLAGENS INDIVIDUAIS (SESSÃO ATUAL) ===
+Rolagem 1: 20
+Rolagem 2: 19
+Rolagem 3: 14
+Rolagem 4: 12
+Rolagem 5: 2
+Rolagem 6: 12
+Rolagem 7: 14
+Rolagem 8: 13
+Rolagem 9: 20
+Rolagem 10: 14
+Rolagem 11: 2
+Rolagem 12: 17
+Rolagem 13: 10
+Rolagem 14: 17
+Rolagem 15: 12
+Rolagem 16: 20
+Rolagem 17: 8
+Rolagem 18: 10
+Rolagem 19: 10
+Rolagem 20: 18
+Rolagem 21: 19
+Rolagem 22: 16
+Rolagem 23: 19
+Rolagem 24: 6
+Rolagem 25: 14
+Rolagem 26: 8
+Rolagem 27: 1
+Rolagem 28: 3
+Rolagem 29: 16
+Rolagem 30: 2
+Rolagem 31: 9
+Rolagem 32: 20
+Rolagem 33: 14
+Rolagem 34: 2
+Rolagem 35: 14
+Rolagem 36: 16
+Rolagem 37: 3
+Rolagem 38: 2
+Rolagem 39: 20
+Rolagem 40: 4

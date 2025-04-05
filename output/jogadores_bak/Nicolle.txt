@@ -1,0 +1,46 @@
+Personagem: Nicolle
+
+=== ESTATÍSTICAS DA SESSÃO ATUAL ===
+Quantidade de rolagens: 8
+Média de rolagem (sessão atual): 20
+Desvio padrão (sessão atual): 0
+Variância (sessão atual): 0
+
+=== ESTATÍSTICAS CUMULATIVAS ===
+Total de sessões: 2
+Total de rolagens (todas as sessões): 13
+Média total (todas as sessões): 18
+Desvio padrão total: 2.66025
+Variância total: 7.07692
+
+=== DISTRIBUIÇÃO DE ROLAGENS (SESSÃO ATUAL) ===
+Valor 1: 0%
+Valor 2: 0%
+Valor 3: 0%
+Valor 4: 0%
+Valor 5: 0%
+Valor 6: 0%
+Valor 7: 0%
+Valor 8: 0%
+Valor 9: 0%
+Valor 10: 0%
+Valor 11: 0%
+Valor 12: 0%
+Valor 13: 0%
+Valor 14: 0%
+Valor 15: 0%
+Valor 16: 0%
+Valor 17: 0%
+Valor 18: 0%
+Valor 19: 0%
+Valor 20: 100%
+
+=== ROLAGENS INDIVIDUAIS (SESSÃO ATUAL) ===
+Rolagem 1: 20
+Rolagem 2: 20
+Rolagem 3: 20
+Rolagem 4: 20
+Rolagem 5: 20
+Rolagem 6: 20
+Rolagem 7: 20
+Rolagem 8: 20

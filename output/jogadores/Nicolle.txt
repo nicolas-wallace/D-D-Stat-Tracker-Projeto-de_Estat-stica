@@ -1,0 +1,78 @@
+Personagem: Nicolle
+
+=== ESTATÍSTICAS DA SESSÃO ATUAL ===
+Quantidade de rolagens: 40
+Média de rolagem (sessão atual): 11.725
+Desvio padrão (sessão atual): 5.66122
+Variância (sessão atual): 32.0494
+
+=== ESTATÍSTICAS CUMULATIVAS ===
+Total de sessões: 4
+Total de rolagens (todas as sessões): 340
+Média total (todas as sessões): 10.8353
+Desvio padrão total: 5.71705
+Variância total: 32.6846
+
+=== DISTRIBUIÇÃO DE ROLAGENS (SESSÃO ATUAL) ===
+Valor 1: 2.5%
+Valor 2: 2.5%
+Valor 3: 5%
+Valor 4: 2.5%
+Valor 5: 5%
+Valor 6: 5%
+Valor 7: 5%
+Valor 8: 7.5%
+Valor 9: 2.5%
+Valor 10: 5%
+Valor 11: 7.5%
+Valor 12: 0%
+Valor 13: 5%
+Valor 14: 10%
+Valor 15: 0%
+Valor 16: 5%
+Valor 17: 12.5%
+Valor 18: 2.5%
+Valor 19: 7.5%
+Valor 20: 7.5%
+
+=== ROLAGENS INDIVIDUAIS (SESSÃO ATUAL) ===
+Rolagem 1: 2
+Rolagem 2: 14
+Rolagem 3: 6
+Rolagem 4: 7
+Rolagem 5: 13
+Rolagem 6: 11
+Rolagem 7: 20
+Rolagem 8: 17
+Rolagem 9: 14
+Rolagem 10: 17
+Rolagem 11: 17
+Rolagem 12: 4
+Rolagem 13: 6
+Rolagem 14: 17
+Rolagem 15: 8
+Rolagem 16: 7
+Rolagem 17: 5
+Rolagem 18: 9
+Rolagem 19: 18
+Rolagem 20: 19
+Rolagem 21: 8
+Rolagem 22: 11
+Rolagem 23: 16
+Rolagem 24: 14
+Rolagem 25: 19
+Rolagem 26: 10
+Rolagem 27: 17
+Rolagem 28: 19
+Rolagem 29: 1
+Rolagem 30: 3
+Rolagem 31: 16
+Rolagem 32: 13
+Rolagem 33: 5
+Rolagem 34: 3
+Rolagem 35: 8
+Rolagem 36: 11
+Rolagem 37: 20
+Rolagem 38: 14
+Rolagem 39: 10
+Rolagem 40: 20

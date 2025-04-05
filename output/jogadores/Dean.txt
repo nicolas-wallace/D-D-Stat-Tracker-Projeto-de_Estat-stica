@@ -1,0 +1,78 @@
+Personagem: Dean
+
+=== ESTATÍSTICAS DA SESSÃO ATUAL ===
+Quantidade de rolagens: 40
+Média de rolagem (sessão atual): 11.025
+Desvio padrão (sessão atual): 5.41981
+Variância (sessão atual): 29.3744
+
+=== ESTATÍSTICAS CUMULATIVAS ===
+Total de sessões: 4
+Total de rolagens (todas as sessões): 340
+Média total (todas as sessões): 10.9441
+Desvio padrão total: 5.82286
+Variância total: 33.9057
+
+=== DISTRIBUIÇÃO DE ROLAGENS (SESSÃO ATUAL) ===
+Valor 1: 0%
+Valor 2: 7.5%
+Valor 3: 2.5%
+Valor 4: 0%
+Valor 5: 7.5%
+Valor 6: 5%
+Valor 7: 12.5%
+Valor 8: 2.5%
+Valor 9: 5%
+Valor 10: 12.5%
+Valor 11: 2.5%
+Valor 12: 0%
+Valor 13: 2.5%
+Valor 14: 5%
+Valor 15: 5%
+Valor 16: 5%
+Valor 17: 12.5%
+Valor 18: 5%
+Valor 19: 2.5%
+Valor 20: 5%
+
+=== ROLAGENS INDIVIDUAIS (SESSÃO ATUAL) ===
+Rolagem 1: 8
+Rolagem 2: 13
+Rolagem 3: 9
+Rolagem 4: 6
+Rolagem 5: 5
+Rolagem 6: 5
+Rolagem 7: 17
+Rolagem 8: 10
+Rolagem 9: 18
+Rolagem 10: 9
+Rolagem 11: 7
+Rolagem 12: 2
+Rolagem 13: 17
+Rolagem 14: 17
+Rolagem 15: 7
+Rolagem 16: 15
+Rolagem 17: 3
+Rolagem 18: 7
+Rolagem 19: 7
+Rolagem 20: 11
+Rolagem 21: 17
+Rolagem 22: 2
+Rolagem 23: 14
+Rolagem 24: 10
+Rolagem 25: 5
+Rolagem 26: 20
+Rolagem 27: 7
+Rolagem 28: 2
+Rolagem 29: 20
+Rolagem 30: 18
+Rolagem 31: 15
+Rolagem 32: 10
+Rolagem 33: 16
+Rolagem 34: 10
+Rolagem 35: 19
+Rolagem 36: 16
+Rolagem 37: 6
+Rolagem 38: 14
+Rolagem 39: 17
+Rolagem 40: 10
